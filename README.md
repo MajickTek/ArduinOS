@@ -23,3 +23,5 @@ Hardware required:
 * Arduino board (Personally tested on Uno; works with all boards)
 
 * The board needs to be connected to a computer at all times for the correct serial connection (BlueTooth could be an option; not tested)
+
+* Breadboard (only if installing additional components)
