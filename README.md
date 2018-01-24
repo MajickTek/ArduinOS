@@ -25,3 +25,8 @@ Hardware required:
 * The board needs to be connected to a computer at all times for the correct serial connection (BlueTooth could be an option; not tested)
 
 * Breadboard (only if installing additional components)
+
+Software required:
+* PuTTY (for displaying proer serial information, the Arduino IDE will NOT work for this)
+  * https://www.putty.org
+* Arduino IDE for programming the board
