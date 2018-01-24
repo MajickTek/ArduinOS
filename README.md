@@ -10,8 +10,10 @@ It also contains color support, special character support, and more.
 It cannot run in Arduino's defualt Serial prompt, so you will need to use PuTTY.
 
 Putty Start Command: -serial COM15 -sercfg 115200,8,n,1,N
-
 Where COM15 is your board's COM port.
+
+PuTTY is required for displaying the proper serial information.
+get it from here: https://www.putty.org
 
 The OS is compatible with any and all arduinos that come in contact with it.
 
@@ -27,6 +29,4 @@ Hardware required:
 * Breadboard (only if installing additional components)
 
 Software required:
-* PuTTY (for displaying proer serial information, the Arduino IDE will NOT work for this)
-  * https://www.putty.org
 * Arduino IDE for programming the board
