@@ -1,3 +1,8 @@
+/*
+ArduinOS PuTTY-compatible escape codes.
+These escape codes do NOT work AT ALL in the standard Arduino IDE's seial terminal.
+*/
+
 #define ESC_RESET         "0m"
 #define ESC_BOLD_ON       "1m"
 #define ESC_CLR_SCREEN    "2J"
